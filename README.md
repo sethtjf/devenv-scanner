@@ -18,7 +18,7 @@ A powerful CLI tool to scan, save, and recreate your development environment acr
 bun add -g devenv-cli
 
 # Or clone and build from source
-git clone https://github.com/yourusername/devenv-scanner.git
+git clone https://github.com/sethtjf/devenv-scanner.git
 cd devenv-scanner
 bun install
 bun run build
